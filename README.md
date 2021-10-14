@@ -20,7 +20,7 @@
         databaseTools: {
             ["Microsoft SQL Server", "PostgreSQL", "MySQL", "MongoDB"]
         },
-        versionControlTools:{
+        versionControlTools: {
             ["Git", "GitHub", "Github Desktop", "GitKraken"]
         }
     }
