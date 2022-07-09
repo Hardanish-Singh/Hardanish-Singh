@@ -1,6 +1,6 @@
 ### Hi, my name is
 # Hardanish Singh
-#### I'm a Senior Software Engineer based in Toronto, Ontario, Canada specializing in C, C++, Java, C#, ASP.NET, Python, SQL, PL/SQL, JavaScript, React, Angular and React Native.
+#### I'm a Senior Software Engineer based in Toronto, Ontario, Canada specializing in C, C++, Java, C#, ASP.NET, Python, SQL, PL/SQL, JavaScript, GraphQL, React, Angular and React Native.
 #### Currently, I'm working as Senior Software Engineer at Meta.
 
 <h3 align="left">Connect with me:</h3>
@@ -22,13 +22,16 @@
         },
         frontend: {
             ["Angular", "TypeScript", "JavaScript", "HTML5", "CSS3", "Bootstrap", 
-             "Material UI", "React", "Flow"]
+             "Material UI", "React", "Flow", "GrapgQL"]
         },
         databaseTools: {
             ["Microsoft SQL Server", "PostgreSQL", "MySQL", "MongoDB"]
         },
         versionControlTools: {
             ["Git", "GitHub", "Github Desktop", "GitKraken"]
+        },
+        testingFrameworks: {
+            ["Jest", "React Testing Library", "End to End Testing with Cypress", "Enzyme"]
         }
     }
   }    
