@@ -1,7 +1,7 @@
 ### Hi, my name is
 # Hardanish Singh
-#### I'm a Full Stack Developer based in Windsor, Ontario, Canada specializing in C, C++, Java, C#, ASP.NET, Python, SQL, PL/SQL, JavaScript, React, Angular and React Native.
-#### Currently, I'm working as Senior Full Stack Developer at Meta.
+#### I'm a Senior Software Engineer based in Toronto, Ontario, Canada specializing in C, C++, Java, C#, ASP.NET, Python, SQL, PL/SQL, JavaScript, React, Angular and React Native.
+#### Currently, I'm working as Senior Software Engineer at Meta.
 
 ### More about me..
 
