@@ -15,7 +15,7 @@
 ```javascript
   const Hardanish_Singh = {
     pronouns: "He" | "Him",
-    title: "Senior Full Stack Developer",
+    title: "Senior Software Engineer",
     technologies: {
         backend: {
             ["ASP.NET Core", "C#", "Entity Framework", "Java", "C", "C++", "Python"]
