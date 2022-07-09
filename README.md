@@ -43,11 +43,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-##
+### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
   <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Hardanish-Singh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Hardanish-Singh" />
 </div>
+
+<br/>
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardanish-Singh&theme=dark" alt="Hardanish-Singh" />
