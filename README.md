@@ -22,7 +22,7 @@
         },
         frontend: {
             ["Angular", "TypeScript", "JavaScript", "HTML5", "CSS3", "Bootstrap", 
-             "Material UI", "React", "Flow", "GrapgQL"]
+             "Material UI", "React", "Flow", "GraphQL"]
         },
         databaseTools: {
             ["Microsoft SQL Server", "PostgreSQL", "MySQL", "MongoDB"]
