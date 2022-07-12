@@ -8,7 +8,8 @@
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/hardanishsingh ) <br/>
-[![Leetcode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/Hardanish-Singh/ ) 
+<a href="https://leetcode.com/Hardanish-Singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Hardanish-Singh" height="30" width="40" /></a>
+</a>
 
 ### More about me..
 
