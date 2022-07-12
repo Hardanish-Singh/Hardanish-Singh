@@ -53,5 +53,5 @@
 <br />
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardanish-Singh&theme=dark" alt="Hardanish-Singh" width = "450px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardanish-Singh&theme=vision-friendly-dark&hide_border=true" alt="Hardanish-Singh" width = "450px"/>
 </div>
