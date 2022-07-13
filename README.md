@@ -1,7 +1,4 @@
-### Hi, my name is
-# Hardanish Singh
-#### I'm a Senior Software Engineer based in Toronto, Ontario, Canada specializing in C, C++, Java, C#, ASP.NET, Python, SQL, PL/SQL, JavaScript, GraphQL, React, Angular and React Native.
-#### Currently, I'm working as Senior Software Engineer at Meta.
+### Hi, my name is Hardanish Singh
 
 # Connect with me
 <a href="https://ca.linkedin.com/in/hardanishsingh">
