@@ -4,7 +4,7 @@
 #### Currently, I'm working as Senior Software Engineer at Meta.
 
 # Connect with me
-<a href="https://leetcode.com/Hardanish-Singh/">
+<a href="https://ca.linkedin.com/in/hardanishsingh">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
 <br/>
