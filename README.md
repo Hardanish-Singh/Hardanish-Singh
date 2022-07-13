@@ -5,7 +5,7 @@
 
 # Connect with me
 <a href="https://ca.linkedin.com/in/hardanishsingh">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
 </a>
 <br/>
 <a href="https://leetcode.com/Hardanish-Singh/">
