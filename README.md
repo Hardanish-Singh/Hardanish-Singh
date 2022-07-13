@@ -54,4 +54,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Hardanish-Singh&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hardanish-Singh&theme=vision-friendly-dark&hide_border=true)<br/>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsbibeksaini&theme=dark" alt="itsbibeksaini" />
+</div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hardanish-Singh&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
