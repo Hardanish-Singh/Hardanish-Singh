@@ -7,10 +7,6 @@
 <a href="https://ca.linkedin.com/in/hardanishsingh">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
 </a>
-<br />
-<a href="https://leetcode.com/Hardanish-Singh/">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40"/>
-</a>
 <br/>
 <a href="https://leetcode.com/Hardanish-Singh/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40"/>
