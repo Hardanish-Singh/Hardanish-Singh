@@ -4,11 +4,9 @@
 <a href="https://ca.linkedin.com/in/hardanishsingh">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-<br/>
 <a href="https://leetcode.com/Hardanish-Singh/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40"/>
 </a>
-<br/>
 <a href="https://github.com/Hardanish-Singh">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
