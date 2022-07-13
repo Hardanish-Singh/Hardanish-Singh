@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/>
 </a>
 <a href="https://leetcode.com/Hardanish-Singh/">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="30"/>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40"/>
 </a>
 
 ### More about me..
