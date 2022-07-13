@@ -3,9 +3,6 @@
 #### I'm a Senior Software Engineer based in Toronto, Ontario, Canada specializing in C, C++, Java, C#, ASP.NET, Python, SQL, PL/SQL, JavaScript, GraphQL, React, Angular and React Native.
 #### Currently, I'm working as Senior Software Engineer at Meta.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/hardanishsingh ) <br/>
 <a href="https://leetcode.com/Hardanish-Singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Hardanish-Singh" height="30" width="40" /></a>
