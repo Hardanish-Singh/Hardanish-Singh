@@ -35,7 +35,7 @@
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-# GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=Hardanish-Singh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hardanish-Singh&theme=vision-friendly-dark&hide_border=true)<br/>
