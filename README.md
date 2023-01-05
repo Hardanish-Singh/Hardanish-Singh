@@ -38,6 +38,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img height="180em" width="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hardanish-Singh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hardanish-Singh&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="50%" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hardanish-Singh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hardanish-Singh&layout=compact&langs_count=8&theme=algolia"/>
 </p>
