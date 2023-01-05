@@ -1,6 +1,6 @@
 ### Hi, my name is Hardanish Singh
 
-### &nbsp;Connect with me
+### ✅ &nbsp;Connect with me
 <a href="https://ca.linkedin.com/in/hardanishsingh">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
