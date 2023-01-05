@@ -38,8 +38,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <a href="https://github.com/AnasImloul">
   <img height="400px" width="400px" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hardanish-Singh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="400px" width="400px" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hardanish-Singh&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
 </p>
