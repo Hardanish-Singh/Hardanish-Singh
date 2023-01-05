@@ -39,6 +39,6 @@
 
 <p align="left">
   <img width="33%" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hardanish-Singh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="30%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardanish-Singh&theme=vision-friendly-dark&hide_border=true"/>
-  <img height="100px" width="33%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hardanish-Singh&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="33%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardanish-Singh&theme=vision-friendly-dark&hide_border=true"/>
+  <img height="150px" width="330%" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hardanish-Singh&layout=compact&langs_count=8&theme=algolia"/>
 </p>
