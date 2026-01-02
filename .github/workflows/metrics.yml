@@ -15,16 +15,21 @@ jobs:
           user: Hardanish-Singh
           template: classic
           
-          # This creates the side-by-side layout (Radar on right)
+          # Force the side-by-side layout
           config_display: large
           
-          # We only want the activity graph
+          # The Activity Graph (Radar)
           base: activity
           
-          # FIX 1: Look back 10 years (3650 days) to find older Apache work
+          # --- THE FIX IS HERE ---
           plugin_notable: yes
+          # 1. Look for everything: Commits, PRs, AND Issues
+          plugin_notable_types: commit, pull_request, issue
+          # 2. Look inside 'all' repositories, not just user's own
           plugin_notable_from: all
-          plugin_notable_types: commit
+          # 3. SHOW EVERYTHING: Set star filter to 0 (don't hide small repos)
+          plugin_notable_filter: stars:>0
+          # 4. Look deeper and longer (10 years)
           plugin_notable_indepth: yes
           plugin_notable_days: 3650
           plugin_notable_repositories: yes 
