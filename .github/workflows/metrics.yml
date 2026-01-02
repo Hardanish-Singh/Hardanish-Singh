@@ -18,16 +18,15 @@ jobs:
           # This creates the side-by-side layout (Radar on right)
           config_display: large
           
-          # The activity graph
+          # We only want the activity graph
           base: activity
           
-          # NOTABLE CONTRIBUTIONS SETTINGS
+          # FIX 1: Look back 10 years (3650 days) to find older Apache work
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
           plugin_notable_indepth: yes
-          plugin_notable_days: 3000
-          # This line is REQUIRED to show the text list "Contributed to..."
+          plugin_notable_days: 3650
           plugin_notable_repositories: yes 
           
           config_timezone: America/Toronto
