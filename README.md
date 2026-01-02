@@ -35,7 +35,7 @@
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-![Metrics](https://raw.githubusercontent.com/Hardanish-Singh/Hardanish-Singh/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Hardanish-Singh/Hardanish-Singh/main/github-metrics.svg?v=2)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
