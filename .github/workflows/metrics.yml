@@ -15,17 +15,17 @@ jobs:
           user: Hardanish-Singh
           template: classic
           
-          # "large" creates the side-by-side layout (Radar on right, Notable on left)
+          # FIX 1: "large" creates the side-by-side layout you want
           config_display: large
           
           # We only want the activity graph, no big header
           base: activity
           
-          # Fix for "No recent contributions found"
+          # FIX 2: We must tell it to look back 5 years (1800 days)
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
           plugin_notable_indepth: yes
-          plugin_notable_days: 3000 # Look back 8 years to find your Apache work
+          plugin_notable_days: 1800 
           
           config_timezone: America/Toronto
