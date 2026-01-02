@@ -15,10 +15,26 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Your Username
           user: Hardanish-Singh
           template: classic
-          base: header, activity, community, repositories, metadata
+          
+          # CRITICAL CHANGE 1: Remove 'header', 'community', 'repositories', 'metadata'
+          # We only keep 'activity' to get the graph, and we disable the big header.
+          base: activity
+          
+          # CRITICAL CHANGE 2: Force the Radar Chart layout
+          # By disabling the other base sections, the activity graph becomes the focus.
+          config_display: regular
+          
+          # The "Contributed to" (Organizations) section
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
+          plugin_notable_repositories: yes
+          # CRITICAL CHANGE 3: Scan deeper to find your Apache contributions
+          plugin_notable_indepth: yes 
+          
+          # Adjust this to your timezone
           config_timezone: America/Toronto
