@@ -15,17 +15,19 @@ jobs:
           user: Hardanish-Singh
           template: classic
           
-          # FIX 1: "large" creates the side-by-side layout you want
+          # This creates the side-by-side layout (Radar on right)
           config_display: large
           
-          # We only want the activity graph, no big header
+          # The activity graph
           base: activity
           
-          # FIX 2: We must tell it to look back 5 years (1800 days)
+          # NOTABLE CONTRIBUTIONS SETTINGS
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
           plugin_notable_indepth: yes
-          plugin_notable_days: 1800 
+          plugin_notable_days: 3000
+          # This line is REQUIRED to show the text list "Contributed to..."
+          plugin_notable_repositories: yes 
           
           config_timezone: America/Toronto
